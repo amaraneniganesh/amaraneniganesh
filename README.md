@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, This Ganesh Amaraneni
 
 <!--
 **amaraneniganesh/amaraneniganesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,10 +27,6 @@ Here are some ideas to get you started:
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amaraneniganesh&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=amaraneniganesh&icon=0&color=0)](https://visitcount.itsvg.in)
 
