@@ -100,7 +100,7 @@ reach_me:         "LinkedIn ↓"
   <!-- This block is populated automatically by the GitHub Action in metrics.yml -->
   <img src="metrics.svg" width="500" alt="GitHub metrics"/>
 </div><br>
-<img src="[https://github-readme-activity-graph.vercel.app/graph?username=amaraneniganesh&theme=tokyo-night&hide_border=true&area=true&radius=10](https://streak-stats.demolab.com?user=amaraneniganesh&theme=tokyonight&hide_border=true&border_radius=10)" width="95%" alt="activity graph"/>
+<img src="(https://streak-stats.demolab.com?user=amaraneniganesh&theme=tokyonight&hide_border=true&border_radius=10)" width="95%" alt="activity graph"/>
 
 </div>
 <br>
