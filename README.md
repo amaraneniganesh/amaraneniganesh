@@ -96,13 +96,12 @@ reach_me:         "LinkedIn ↓"
 <br>
 
 ## GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amaraneniganesh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&border_radius=10" height="165" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaraneniganesh&layout=compact&hide_border=true&theme=tokyonight&border_radius=10&langs_count=8" height="165" alt="top languages"/>
+<!-- This block is populated automatically by the GitHub Action in metrics.yml -->
+<img src="metrics.svg" width="95%" alt="GitHub metrics"/>
 
-<br><br>
+</div>
 
 <img src="https://streak-stats.demolab.com?user=amaraneniganesh&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="streak"/>
 
