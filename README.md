@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=GANESH%20AMARANENI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20API%20%26%20Automation%20Specialist&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=250&amp;section=header&amp;text=KARTHIKA%20MANI&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20Web%20Developer%20%7C%20API%20%26%20Automation%20Specialist&amp;descAlignY=55&amp;descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+scalable+web+apps+with+React+%26+Node.js;50%2B+API+Integrations+Shipped;Real-time+Systems+%7C+WebSockets+%7C+LiveKit;Automation+%7C+Docker+%7C+CI%2FCD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+scalable+web+apps+with+React+%26+Node.js;50%2B+API+Integrations+Shipped;Real-time+Systems+%7C+WebSockets+%7C+LiveKit;Automation+%7C+Docker+%7C+CI%2FCD" alt="Typing SVG" />
 
 </div>
 
@@ -10,15 +10,14 @@
 
 ## 👋 About Me
 
-I'm **Ganesh Amaraneni**, a Web Developer who enjoys turning ideas into fast, reliable, production-ready products. I work across the stack — from building UI in **React** to wiring up backend services, real-time systems, and the infrastructure that keeps them running.
+I'm **Ganesh**, a Web Developer and always a student who wants to learn new things and apply them.
 
-Since **February 2026**, I've been working in industry at a private company, where I build and maintain real-world systems used in production — not just side projects.
+Since **February 2026**, I've been working in a company, where I build and maintain real-world systems used in production - not just side projects.
 
 ```yaml
 current_focus:    "Real-time apps, automation pipelines & clean API architecture"
-currently_working_at: "Private Company (Feb 2026 – Present)"
+working since feb2026 - present
 reach_me:         "LinkedIn ↓"
-fun_fact:         "I'd rather automate it once than do it manually twice 🤖"
 ```
 
 <br>
@@ -93,12 +92,12 @@ fun_fact:         "I'd rather automate it once than do it manually twice 🤖"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ganesh-Amaraneni&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&border_radius=10" height="165" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-Amaraneni&layout=compact&hide_border=true&theme=tokyonight&border_radius=10&langs_count=8" height="165" alt="top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?amaraneniganesh=amaraneniganesh&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;theme=tokyonight&amp;border_radius=10" height="165" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?amaraneniganesh=amaraneniganesh&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight&amp;border_radius=10&amp;langs_count=8" height="165" alt="top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=Ganesh-Amaraneni&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=amaraneniganesh&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=10" height="165" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganesh-Amaraneni&theme=tokyo-night&hide_border=true&area=true&radius=10" width="95%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?amaraneniganesh=amaraneniganesh&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;radius=10" width="95%" alt="activity graph"/>
 
 </div>
 
@@ -120,7 +119,7 @@ fun_fact:         "I'd rather automate it once than do it manually twice 🤖"
 <div align="center">
 
 <!-- This block is populated automatically by the GitHub Action in snake.yml -->
-<img src="https://raw.githubusercontent.com/Ganesh-Amaraneni/Ganesh-Amaraneni/output/github-contribution-grid-snake-dark.svg" width="95%" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/amaraneniganesh/amaraneniganesh/output/github-contribution-grid-snake-dark.svg" width="95%" alt="snake animation"/>
 
 </div>
 
@@ -137,7 +136,7 @@ Live audio-video communication app built with **LiveKit** and **WebSockets** for
 
 `React` `WebSockets` `LiveKit` `Node.js`
 
-**[🔗 View Repo →](https://github.com/Ganesh-Amaraneni/your-livekit-project)**
+**[🔗 View Repo →](https://github.com/amaraneniganesh/your-livekit-project)**
 
 </td>
 <td width="50%">
@@ -147,7 +146,7 @@ A backend service unifying **50+ third-party API integrations** into a single, c
 
 `Node.js` `Express` `REST APIs` `MongoDB`
 
-**[🔗 View Repo →](https://github.com/Ganesh-Amaraneni/your-api-hub-project)**
+**[🔗 View Repo →](https://github.com/amaraneniganesh/your-api-hub-project)**
 
 </td>
 </tr>
@@ -159,7 +158,7 @@ Automated scraping and data pipeline tooling with scheduling, retries, and struc
 
 `Python/Node.js` `Web Scraping` `Automation` `Docker`
 
-**[🔗 View Repo →](https://github.com/Ganesh-Amaraneni/your-scraper-project)**
+**[🔗 View Repo →](https://github.com/amaraneniganesh/your-scraper-project)**
 
 </td>
 <td width="50%">
@@ -169,7 +168,7 @@ A dashboard for managing domains, DNS records, and Cloudflare configs (caching, 
 
 `Cloudflare API` `Docker` `CI/CD` `React`
 
-**[🔗 View Repo →](https://github.com/Ganesh-Amaraneni/your-cloudflare-project)**
+**[🔗 View Repo →](https://github.com/amaraneniganesh/your-cloudflare-project)**
 
 </td>
 </tr>
@@ -185,16 +184,16 @@ A dashboard for managing domains, DNS records, and Cloudflare configs (caching, 
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/amaraneniganesh/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" width="100%"/>
 
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Ganesh-Amaraneni.Ganesh-Amaraneni&style=flat-square" alt="visitor badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=amaraneniganesh.amaraneniganesh&amp;style=flat-square" alt="visitor badge"/>
 </div>
