@@ -99,11 +99,11 @@ reach_me:         "LinkedIn ↓"
 <div align="center">
   <!-- This block is populated automatically by the GitHub Action in metrics.yml -->
   <img src="metrics.svg" width="500" alt="GitHub metrics"/>
-</div><br>
-<img src="(https://streak-stats.demolab.com?user=amaraneniganesh&theme=tokyonight&hide_border=true&border_radius=10)" width="95%" alt="activity graph"/>
-
+  
+  <br><br>
+  
+  <img src="https://streak-stats.demolab.com?user=amaraneniganesh&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="streak stats"/>
 </div>
-<br>
 
 
 ## 3D Contribution Graph
