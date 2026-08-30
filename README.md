@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=250&amp;section=header&amp;text=KARTHIKA%20MANI&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20Web%20Developer%20%7C%20API%20%26%20Automation%20Specialist&amp;descAlignY=55&amp;descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=250&amp;section=header&amp;text=Ganesh&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Web%20Developer%20who%20loves%20learning%20new%20things&amp;descAlignY=55&amp;descAlign=50" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+scalable+web+apps+with+React+%26+Node.js;50%2B+API+Integrations+Shipped;Real-time+Systems+%7C+WebSockets+%7C+LiveKit;Automation+%7C+Docker+%7C+CI%2FCD" alt="Typing SVG" />
 
