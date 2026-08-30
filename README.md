@@ -97,7 +97,20 @@ reach_me:         "LinkedIn ↓"
 
 ## GitHub Stats
 
-<div align="center"> <!-- This block is populated automatically by the GitHub Action in metrics.yml --> <img src="metrics.svg" width="95%" alt="GitHub metrics"/> </div> <br>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amaraneniganesh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&border_radius=10" height="165" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaraneniganesh&layout=compact&hide_border=true&theme=tokyonight&border_radius=10&langs_count=8" height="165" alt="top languages"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=amaraneniganesh&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="streak"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amaraneniganesh&theme=tokyo-night&hide_border=true&area=true&radius=10" width="95%" alt="activity graph"/>
+
+</div>
 
 
 ## 3D Contribution Graph
