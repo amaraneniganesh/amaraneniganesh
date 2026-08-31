@@ -126,57 +126,43 @@ reach_me:         "LinkedIn ↓"
 
 <br>
 
-## Featured Projects
-
 <table>
 <tr>
 <td width="50%">
 
-### Real-Time Video/Audio Platform
-Live audio-video communication app built with **LiveKit** and **WebSockets** for low-latency real-time interaction.
+### Omnipi
+Developer platform for API monitoring, real-time analytics, and secure edge worker execution via isolated VMs with a built-in testing client.
 
-`React` `WebSockets` `LiveKit` `Node.js`
+`React` `Node.js` `Express` `MongoDB` `isolated-vm`
 
-**[View Repo →](https://github.com/amaraneniganesh/your-livekit-project)**
+**[Live Demo ↗](https://omnipi.dhanvatix.in/)**
 
 </td>
 <td width="50%">
 
-### API Integration Hub
-A backend service unifying **50+ third-party API integrations** into a single, consistent interface for downstream apps.
+### Dhanvatix
+Domain & DNS automation dashboard integrating Cloudflare APIs, automated SSL provisioning, and role-based access control.
 
-`Node.js` `Express` `REST APIs` `MongoDB`
+`React` `Node.js` `Express` `MongoDB` `Cloudflare API`
 
-**[View Repo →](https://github.com/amaraneniganesh/your-api-hub-project)**
+**[Live Demo ↗](https://dhanvatix.in/)** &nbsp;•&nbsp; **[View Repo →](https://github.com/amaraneniganesh/Dhanvatix-collab-StackInfi)**
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" colspan="2">
 
-### Web Scraper & Automation Suite
-Automated scraping and data pipeline tooling with scheduling, retries, and structured storage.
+### Sambashi
+Full-stack real-time communication platform featuring low-latency text chat, multi-user audio, and video calling.
 
-`Python/Node.js` `Web Scraping` `Automation` `Docker`
+`React` `Node.js` `WebSockets` `WebRTC`
 
-**[View Repo →](https://github.com/amaraneniganesh/your-scraper-project)**
-
-</td>
-<td width="50%">
-
-### Domain & Cloudflare Manager
-A dashboard for managing domains, DNS records, and Cloudflare configs (caching, proxy rules, security).
-
-`Cloudflare API` `Docker` `CI/CD` `React`
-
-**[View Repo →](https://github.com/amaraneniganesh/your-cloudflare-project)**
+**[Live Demo ↗](https://sambashi.onrender.com/login)**
 
 </td>
 </tr>
 </table>
-
 <br>
-
 ## Connect With Me
 
 <div align="center">
